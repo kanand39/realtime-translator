@@ -1,0 +1,13 @@
+livekit-agents
+livekit
+numpy
+soundfile
+python-dotenv
+transformers
+sentencepiece
+torch
+faster-whisper
+webrtcvad
+websockets
+requests
+google-cloud-texttospeech

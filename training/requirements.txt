@@ -1,0 +1,11 @@
+transformers<5.0
+protobuf>=4.25
+datasets<3.0
+sentencepiece
+peft
+accelerate
+bitsandbytes
+evaluate
+uvicorn
+fastapi
+torch
